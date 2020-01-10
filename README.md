@@ -6,6 +6,10 @@ vim plugin, gitmdblog ,markdown blog http server
 
 vim plugin for markdown blog server, support markdown file, format.
 
+## How to Use
+
+- exec `:GMBServStart`
+
 ## post file format 
 
 - posts directory is "posts"
@@ -18,7 +22,7 @@ tags: Markdown,GitMdBlog
 notebook: diary-2020
 ---
 
-# 2020-01-09 星期四 Diary
+# 2020-01-09 Thu Diary
 
 ## Plan
 

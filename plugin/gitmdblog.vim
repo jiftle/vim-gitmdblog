@@ -8,7 +8,7 @@
 function! GitMdBlogServ_Start()
     redraw
     " -------- 调用同步工具 -----------
-    execute "! ". 'bash /root/.vim/plugged/vim-gitmdblog/gitmdblog-serv.sh'
+    execute "silent ! ". 'bash /root/.vim/plugged/vim-gitmdblog/gitmdblog-serv.sh'
 
     " 清空控制台
     echo "GitMdBlogServer is started, URL: http://0.0.0.0:8001 .  ^_^" 
