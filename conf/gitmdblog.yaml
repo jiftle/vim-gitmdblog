@@ -1,0 +1,5 @@
+# --------- 笔记目录，必须使用绝对路径，不能是相对路径或者软连接
+postsdir: /home/john/git/coding_net/grocery/dailylog
+# postsdir: posts
+# --------- 整站刷新频率，单位：秒
+refreshsecond: 60
