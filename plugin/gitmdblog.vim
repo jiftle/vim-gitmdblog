@@ -1,8 +1,8 @@
 " ===========================================
 " File: gitmdblog.vim
-" Author: yourname
-" Description: 
-" Last Modified: 一月 11, 2020
+" Author: jiftle
+" Description: 提供插件指令
+" Last Modified: 2020-01-11
 " ===========================================
 " 同步笔记到印象笔记，需要调用nodejs程序
 function! GitMdBlogServ_Start()
