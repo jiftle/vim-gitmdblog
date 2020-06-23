@@ -11,7 +11,7 @@ function! GitMdBlogServ_Start()
     execute "silent ! ". 'bash /root/.vim/plugged/vim-jiftle-gitmdblog/gitmdblog-serv.sh'
 
     " 清空控制台
-    echo "GitMdBlogServer is started, URL: http://0.0.0.0:8001 .  ^_^" 
+    echo "GitMdBlogServer is started, URL: http://127.0.0.1:8001 .  ^_^" 
 endfunction   
 
 " --------- 绑定命令
